@@ -4564,7 +4564,7 @@ var app = (function () {
           (n = w("p")),
             (s = w("p")),
             (n.innerHTML =
-              'Have questions/run into bugs? DM Beignet0 on Reddit, beignetSan on Twitch, <a href="https://bsky.app/profile/beignet0.bsky.social">@beignet0.bsky.social</a> on Bluesky, beignet1139 on Discord or create an issue in <a href="https://github.com/nterrien/etrian-heardle/issues" target="_blank">Github</a>!<br><br>Don\'t want to wait until tomorrow? You can also play infinitely to <a href="https://nterrien.github.io/etrian-infinite-heardle/" title="Etrian Odyssey Infinite Heardle">Etrian Odyssey Infinite Heardle</a>.'),
+              'Have questions/run into bugs? DM Beignet0 on Reddit, beignetSan on Twitch, <a href="https://bsky.app/profile/beignet0.eurosky.social">@beignet0.eurosky.social</a> on Bluesky, beignet1139 on Discord or create an issue in <a href="https://github.com/nterrien/etrian-heardle/issues" target="_blank">Github</a>!<br><br>Don\'t want to wait until tomorrow? You can also play infinitely to <a href="https://nterrien.github.io/etrian-infinite-heardle/" title="Etrian Odyssey Infinite Heardle">Etrian Odyssey Infinite Heardle</a>.'),
             (r = x()),
             (s = w("p")),
             (i = x()),
